@@ -10,7 +10,7 @@ Este documento reúne e descreve brevemente os principais projetos pessoais dese
 Projeto de uma API REST desenvolvida com Spring Boot para cadastro e gerenciamento de pessoas. A aplicação permite operações CRUD (Create, Read, Update, Delete) sobre entidades de pessoa física, com atributos como nome, data de nascimento e endereço. Inclui uso de validações com Bean Validation, DTOs, tratamento de exceções com `@ControllerAdvice` e mapeamento com MapStruct.
 
 **Principais Tecnologias:**  
-- Java 17  
+- Java 21  
 - Spring Boot  
 - Spring Web  
 - Spring Data JPA  
@@ -23,7 +23,7 @@ Projeto de uma API REST desenvolvida com Spring Boot para cadastro e gerenciamen
 ## [NZWalks Java](https://github.com/dougluciano2/NZWalks-java)
 
 **Descrição:**  
-API REST criada com Spring Boot inspirada no projeto NZ Walks (trilhas da Nova Zelândia). Implementa funcionalidades para gerenciamento de regiões e trilhas (walks), com autenticação JWT e controle de acesso por perfis de usuário (admin/user). É um projeto de backend completo, com boas práticas de arquitetura em camadas, uso de DTOs, e tratamento robusto de exceções.
+API REST criada com Spring Boot inspirada no projeto NZ Walks do curso de C# que fiz na Udemy com Sameer Saini [Link do repositório][https://github.com/dougluciano2/c-sharp-web-api](trilhas da Nova Zelândia). Implementa funcionalidades para gerenciamento de regiões e trilhas (walks), com autenticação JWT e controle de acesso por perfis de usuário (admin/user). É um projeto de backend completo, com boas práticas de arquitetura em camadas, uso de DTOs, e tratamento robusto de exceções.
 
 **Principais Tecnologias:**  
 - Java 17  
