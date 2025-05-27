@@ -21,9 +21,10 @@ Projeto de uma API REST desenvolvida com Spring Boot para cadastro e gerenciamen
 ---
 
 ## [NZWalks Java](https://github.com/dougluciano2/NZWalks-java)
+### Baseado no projeto de estudos do curso de C# com  Sameer Saini (Udemy) [Link][https://github.com/dougluciano2/c-sharp-web-api]
 
 **Descrição:**  
-API REST criada com Spring Boot inspirada no projeto NZ Walks do curso de C# que fiz na Udemy com Sameer Saini [Link do repositório][https://github.com/dougluciano2/c-sharp-web-api](trilhas da Nova Zelândia). Implementa funcionalidades para gerenciamento de regiões e trilhas (walks), com autenticação JWT e controle de acesso por perfis de usuário (admin/user). É um projeto de backend completo, com boas práticas de arquitetura em camadas, uso de DTOs, e tratamento robusto de exceções.
+API REST criada com Spring Boot inspirada no projeto NZ Walks do curso de C# que fiz na Udemy com Sameer Saini (trilhas da Nova Zelândia). Implementa funcionalidades para gerenciamento de regiões e trilhas (walks), com autenticação JWT e controle de acesso por perfis de usuário (admin/user). É um projeto de backend completo, com boas práticas de arquitetura em camadas, uso de DTOs, e tratamento robusto de exceções.
 
 **Principais Tecnologias:**  
 - Java 17  
