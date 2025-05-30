@@ -1,36 +1,41 @@
-# Projetos Pessoais
+# 📚 Índice de Projetos Pessoais
 
-Este documento reúne e descreve brevemente os principais projetos pessoais desenvolvidos por mim com foco em APIs RESTful usando Java e Spring Boot.
-
----
-
-## [Cadastro Pessoa API](https://github.com/dougluciano2/cadastro-pessoa-api)
-
-**Descrição:**  
-Projeto de uma API REST desenvolvida com Spring Boot para cadastro e gerenciamento de pessoas. A aplicação permite operações CRUD (Create, Read, Update, Delete) sobre entidades de pessoa física, com atributos como nome, data de nascimento e endereço. Inclui uso de validações com Bean Validation, DTOs, tratamento de exceções com `@ControllerAdvice` e mapeamento com MapStruct.
-
-**Principais Tecnologias:**  
-- Java 21  
-- Spring Boot  
-- Spring Web  
-- Spring Data JPA  
-- MapStruct  
-- Bean Validation  
-- PostgreSQL  
+Este repositório serve como um índice organizado dos meus projetos pessoais, abrangendo desde APIs RESTful com Java e Spring Boot até configurações avançadas de Hackintosh. Cada projeto é descrito brevemente com links para seus respectivos repositórios.
 
 ---
 
-## [NZWalks Java](https://github.com/dougluciano2/NZWalks-java)
-### Baseado no projeto de estudos do curso de C# com  Sameer Saini (Udemy) [Link](https://github.com/dougluciano2/c-sharp-web-api)
+## 🧑‍💻 Projetos de Desenvolvimento
 
-**Descrição:**  
-API REST criada com Spring Boot inspirada no projeto NZ Walks do curso de C# que fiz na Udemy com Sameer Saini (trilhas da Nova Zelândia). Implementa funcionalidades para gerenciamento de regiões e trilhas (walks), com autenticação JWT e controle de acesso por perfis de usuário (admin/user). É um projeto de backend completo, com boas práticas de arquitetura em camadas, uso de DTOs, e tratamento robusto de exceções.
+### [Cadastro Pessoa API](https://github.com/dougluciano2/cadastro-pessoa-api)
 
-**Principais Tecnologias:**  
-- Java 17  
-- Spring Boot  
-- Spring Data JPA  
-- Spring Security  
-- JWT (JSON Web Tokens)  
-- ModelMapper  
-- PostgreSQL  
+- **Descrição:** API RESTful desenvolvida com Spring Boot para gerenciamento de pessoas físicas, incluindo operações CRUD, validações com Bean Validation, uso de DTOs, tratamento de exceções e mapeamento com MapStruct.
+- **Tecnologias:** Java 21, Spring Boot, Spring Web, Spring Data JPA, MapStruct, PostgreSQL.
+
+### [NZWalks Java](https://github.com/dougluciano2/nzwalks-java)
+
+- **Descrição:** API inspirada em curso de C#, adaptada para Java, com foco em gerenciamento de trilhas e autenticação JWT.
+- **Tecnologias:** Java 21, Spring Boot, Spring Data JPA, MapStruct, JWT, PostgreSQL.
+
+---
+
+## 💻 Projeto Hackintosh
+
+### [EFI Hackintosh – Intel i5 12ª Gen + ASUS B760-Plus](https://github.com/dougluciano2/EFI-INTEL-CORE-i5-12THGEN-ASUS-PRIME-B760-PLUS-HACKINTOSH)
+
+- **Descrição:** Configuração EFI para Hackintosh compatível com macOS Ventura. Suporte completo a Wi-Fi, Bluetooth, áudio, AirDrop, Handoff e Continuidade.
+- **Destaques:**
+  - Compatível com Intel i5-12400 e placa-mãe ASUS B760-Plus
+  - GPU AMD Radeon RX 6600
+  - Mapeamento de USB personalizado
+  - Requer ajustes em `config.plist` após a instalação (Serial, ROM, MLB, UUID)
+
+---
+
+## 📌 Observações
+
+- Os projetos são voltados ao aprendizado contínuo e prática com tecnologias modernas.
+- Feedbacks e contribuições são sempre bem-vindos!
+
+---
+
+*Atualizado em: 30 de maio de 2025*
